@@ -1,4 +1,4 @@
-# Android Security Testing with LLM Prompts
+# Android Security Testing Instruction Set for LLM Prompts
 
 Structured LLM prompts for baseline mobile app security testing (iOS/Android). Covers manifest analysis, source code review, secrets scanning, logcat inspection, Frida hooks, attack surface analysis, compliance mapping, and penetration test reporting.
 
