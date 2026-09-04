@@ -1,6 +1,6 @@
 # LLM Instruction Set for Baseline Android Security Testing Coverage
 
-**Instructions:** For baseline coverage, copy and paste each of the following sections into your LLM (Copilot, ChatGPT, Claude, etc.) with the relevant artifacts attached or pasted.
+**Instructions:** For baseline coverage, copy and paste each of the following sections into your LLM (Copilot, ChatGPT, Claude, etc.) with the relevant artifacts attached or pasted. Alternatively, download this entire .md file and upload into Copilot.
 
 ---
 
